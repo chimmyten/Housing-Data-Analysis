@@ -1,0 +1,2 @@
+Excel/*.xlsx filter=lfs diff=lfs merge=lfs -text
+SQL_Files/*.db filter=lfs diff=lfs merge=lfs -text
